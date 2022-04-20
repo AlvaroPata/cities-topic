@@ -4032,3 +4032,350 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1650372205833	Marionette	INFO	Stopped listening on port 56798
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650372208590	Marionette	INFO	Stopped listening on port 56695
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650372216266	Marionette	INFO	Stopped listening on port 56204
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650372857227	geckodriver	INFO	Listening on 127.0.0.1:57095
+1650372857749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57096" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileptkRTn"
+1650372858841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileptkRTn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57096/devtools/browser/bc8e710b-bd5b-466e-9034-2bea75a4e7d2
+1650372861114	Marionette	INFO	Listening on port 57111
+Read port: 57111
+1650372861196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+1650465079214	geckodriver	INFO	Listening on 127.0.0.1:60503
+1650465079613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60504" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileKvVXbj"
+1650465081398	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileKvVXbj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60504/devtools/browser/732568cd-bf61-4a6c-8428-7eb2ef8aa367
+1650465083611	Marionette	INFO	Listening on port 60523
+Read port: 60523
+1650465083680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+1650465201617	geckodriver	INFO	Listening on 127.0.0.1:60631
+1650465202127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60632" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileTjqH6O"
+1650465202751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileTjqH6O/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60632/devtools/browser/40bd68e2-11f9-4c94-b99a-7984b56153b4
+1650465204582	Marionette	INFO	Listening on port 60649
+Read port: 60649
+1650465204640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313 line 1 > srcScript, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+1650465229069	geckodriver	INFO	Listening on 127.0.0.1:60730
+1650465229573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60731" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileIsdOye"
+1650465230132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileIsdOye/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60731/devtools/browser/a8c4357b-3802-4451-b6b8-e2c3c4c54593
+1650465231999	Marionette	INFO	Listening on port 60748
+Read port: 60748
+1650465232087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313 line 1 > srcScript, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+1650465426272	geckodriver	INFO	Listening on 127.0.0.1:60880
+1650465426783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60881" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofiledsxJUb"
+1650465427397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofiledsxJUb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60881/devtools/browser/63ab2158-1f41-4fec-95b5-bdab8a9b140e
+1650465429571	Marionette	INFO	Listening on port 60898
+Read port: 60898
+1650465429594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313 line 1 > srcScript, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+1650465500217	Marionette	INFO	Stopped listening on port 60898
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650465502657	Marionette	INFO	Stopped listening on port 60748
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650465521191	Marionette	INFO	Stopped listening on port 60649
+1650465593839	geckodriver	INFO	Listening on 127.0.0.1:61023
+1650465594356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61024" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileEq2dKV"
+1650465594952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileEq2dKV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61024/devtools/browser/af18d956-9eb8-4343-bbb4-daca230c1b77
+1650465596842	Marionette	INFO	Listening on port 61043
+Read port: 61043
+1650465596864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313 line 1 > srcScript, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 352))
+1650487211714	Marionette	INFO	Stopped listening on port 61043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650487213420	Marionette	INFO	Stopped listening on port 60523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650487266042	geckodriver	INFO	Listening on 127.0.0.1:62659
+1650487266451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62660" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileP2NuHj"
+1650487268590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileP2NuHj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62660/devtools/browser/2ee4351d-43fa-4597-9ff9-9cb64c6b6ca5
+1650487271121	Marionette	INFO	Listening on port 62679
+Read port: 62679
+1650487271154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.arup.com/js/app.js?v-637811603429892313 line 1 > srcScript, line 1265: ReferenceError: addthis is not defined
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app-worker.visitor-analytics.io/820.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P22JBP3&gtm_auth=hkoEbcsvQd_OZzmDjkTKgg&gtm_preview=env-2&gtm_cookies_win=x, line 1: unreachable code after return statement
+1650487315503	Marionette	INFO	Stopped listening on port 62679
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650487552574	Marionette	INFO	Stopped listening on port 57111
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650491212916	geckodriver	INFO	Listening on 127.0.0.1:64037
+1650491213438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64038" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofilebKrjCW"
+1650491215663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofilebKrjCW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64038/devtools/browser/2f6c841c-43ef-4d76-a36b-b953dd466db8
+1650491218527	Marionette	INFO	Listening on port 64055
+Read port: 64055
+1650491218634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650491232579	Marionette	INFO	Stopped listening on port 64055
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650491727849	geckodriver	INFO	Listening on 127.0.0.1:64146
+1650491728353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64147" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileXkwxNW"
+1650491729406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileXkwxNW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64147/devtools/browser/f1b902a1-2d54-4cff-ae3a-3d204ddcd569
+1650491732058	Marionette	INFO	Listening on port 64164
+Read port: 64164
+1650491732107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650491749296	geckodriver	INFO	Listening on 127.0.0.1:64204
+1650491749809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64205" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileuVi3Wi"
+1650491750393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofileuVi3Wi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64205/devtools/browser/289bf733-fec1-46de-a691-e9cbdf21deca
+1650491752220	Marionette	INFO	Listening on port 64221
+Read port: 64221
+1650491752321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650491758167	Marionette	INFO	Stopped listening on port 64164
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650491762939	Marionette	INFO	Stopped listening on port 64221
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650492396884	geckodriver	INFO	Listening on 127.0.0.1:64325
+1650492397391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64326" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofiletgA2au"
+1650492398474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofiletgA2au/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64326/devtools/browser/6b124bfb-1b53-4e52-b17f-360b0031eaf1
+1650492401212	Marionette	INFO	Listening on port 64343
+Read port: 64343
+1650492401253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650492424085	geckodriver	INFO	Listening on 127.0.0.1:64372
+1650492424596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64373" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofilerL6abG"
+1650492425149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/37/hrj2n25s0szb0w7_wg4v0yw80000gn/T/rust_mozprofilerL6abG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64373/devtools/browser/1c8aa104-9e9c-4bc6-8867-0ccee1b3b84d
+1650492427023	Marionette	INFO	Listening on port 64389
+Read port: 64389
+1650492427103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650492437627	Marionette	INFO	Stopped listening on port 64389
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
